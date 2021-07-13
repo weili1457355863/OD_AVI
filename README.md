@@ -14,7 +14,7 @@ This dataset version consists of 9828 fisheye images with annotations and the in
 ```
 @article{Wei Li,
 	title = {Object ground lines regression and mapping from fisheye images to around view image for the AVP},
-	date = {2020-07-14}
+	date = {2021-07-14}
 }
 
 ```
