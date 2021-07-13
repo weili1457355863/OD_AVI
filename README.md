@@ -8,6 +8,7 @@ This dataset version consists of 9828 fisheye images with annotations and the in
  * 2D bounding boxes
  * Ground Lines
  * Intrinsic parameters for fisheye camea
+ * Extrinsic parameters for AVM
 
 
 ## Citation
